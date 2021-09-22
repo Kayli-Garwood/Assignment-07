@@ -72,7 +72,7 @@ app.post("/insertAgents", async (req, res) => {
 *          - application/json 
 *       responses: 
 *          200: 
-*              description: mySQL INSERT INTO statement adding only data in the company_name columns for the table 'customers' in the database 'sample' 
+*              description: mySQL INSERT INTO statement adding data for the table 'customers' in the database 'sample' 
 * 
 */
 
